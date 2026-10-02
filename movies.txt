@@ -1,0 +1,30 @@
+M001,The Matrix,Sci-Fi,8.7
+M002,Inception,Sci-Fi,8.8
+M003,Interstellar,Sci-Fi,8.6
+M004,The Dark Knight,Action,9.0
+M005,Avengers: Endgame,Action,8.4
+M006,Gladiator,Action,8.5
+M007,Titanic,Romance,7.8
+M008,The Notebook,Romance,7.8
+M009,Pride & Prejudice,Romance,7.8
+M010,The Hangover,Comedy,7.7
+M011,Superbad,Comedy,7.6
+M012,Step Brothers,Comedy,6.9
+M013,The Conjuring,Horror,7.5
+M014,A Nightmare on Elm Street,Horror,7.5
+M015,The Exorcist,Horror,8.0
+M016,Spirited Away,Animation,8.6
+M017,Toy Story,Animation,8.3
+M018,Finding Nemo,Animation,8.1
+M019,The Godfather,Drama,9.2
+M020,The Shawshank Redemption,Drama,9.3
+M021,Forrest Gump,Drama,8.8
+M022,The Matrix Reloaded,Sci-Fi,7.2
+M023,The Lord of the Rings: The Return of the King,Fantasy,8.9
+M024,Pulp Fiction,Crime,8.9
+M025,Fight Club,Drama,8.8
+M026,Goodfellas,Crime,8.7
+M027,The Silence of the Lambs,Thriller,8.6
+M028,Se7en,Thriller,8.6
+M029,Star Wars: Episode IV - A New Hope,Sci-Fi,8.6
+M030,The Green Mile,Drama,8.6
